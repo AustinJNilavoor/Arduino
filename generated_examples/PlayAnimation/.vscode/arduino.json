@@ -1,0 +1,5 @@
+{
+    "sketch": "PlayAnimation.ino",
+    "port": "COM6",
+    "board": "arduino:renesas_uno:unor4wifi"
+}
